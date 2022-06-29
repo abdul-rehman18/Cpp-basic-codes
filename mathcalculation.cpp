@@ -3,7 +3,6 @@ using namespace std;
 int main()
 {
 	int option;
-	cout << "\t\t\t\t THIS PROGRAM IS DEVELOPED BY ABDUL HADI. " << endl << endl;
 	cout << "Press [1] - To display specific tables from starting and ending values given by user." << endl;
 	cout << "Press [2] - To display first 10 non-negaives whole numbers in desending order." << endl;
 	cout << "Press [3] - To calculate factorial of  a number." << endl;
