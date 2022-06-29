@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main5()
+int main()
 {
 	int p1=0, p2=0;
 	cout << "Enter the 1st P and 2nd P move ";
